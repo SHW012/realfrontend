@@ -32,6 +32,7 @@ dependencies:
     sdk: flutter
   flutter_svg: ^2.0.7
   cupertino_icons: ^1.0.2
+  http: ^1.1.0
     
     
 
@@ -74,7 +75,7 @@ flutter:
     - assets/AnonymBoxButton.svg
     - assets/AnonyBoxCheckButton.svg
     - assets/MyLecturePushButton.svg
-    - aseets/OtherLecturePushButton.svg
+    - assets/OtherLecturePushButton.svg
 
   fonts: 
     - family: Poppins
